@@ -20,8 +20,8 @@ Today I Learned
 
 ### Day 4
 
->[Control_of_Flow(if, while, for문 등](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/02_control_of_flow-checkpoint.ipynb)
+>[Python: Control_of_Flow(if, while, for문 등](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/02_control_of_flow-checkpoint.ipynb)
 
 ### Day 5
 
->[Function](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/03_function-checkpoint.ipynb)
+>[Python: Function](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/03_function-checkpoint.ipynb)
