@@ -10,3 +10,5 @@ Today I Learned
 > [깃 기본 활용법](https://github.com/YoohwaJin/TIL/blob/master/Gitt/git.md)
 
 ### Day 2
+
+>[깃 활용: 포트폴리오 관리, 협업(brench, pull&fork)]
