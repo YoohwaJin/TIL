@@ -12,7 +12,7 @@ Today I Learned
 
 ### Day 2 (7.25)
 
->[깃 활용: 포트폴리오 관리, 협업(brench, pull&fork)](https://github.com/YoohwaJin/TIL/blob/master/Git_cowork/git_cowork.md)
+>[깃 활용: 포트폴리오 관리, 협업(branch, pull&fork)](https://github.com/YoohwaJin/TIL/blob/master/Git_cowork/git_cowork.md)
 
 ### Day 3 (7.26)
 
