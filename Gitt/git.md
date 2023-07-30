@@ -26,9 +26,19 @@ git push origin master
 ```
 - `master` 브랜치를 원격저장소 `origin`으로 업로드하는 명령어
 
+```shell
+git pull origin master
+```
+- 원격 저장소에서 마지막 코드 상태를 다운로드
+
+```shell 
+git clone <remote url>
+```
+- 원격 저장소에 있는 레포를 현재 폴더에 저장
+
 ## 설정
 
-```shell
+```
 git status
 ```
 - 현재 상태를 체크하는 명령어
