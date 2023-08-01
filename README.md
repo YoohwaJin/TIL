@@ -31,9 +31,11 @@ Today I Learned
 ### Day 6 (7.31)
 
 >[Python: Data_Structure](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/04_data_structure.ipynb)
+
 >[Python: Module](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/05.module.ipynb)
 
 ### Day 7 (8.1)
 >[Python: Errors](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/06.errors.ipynb)
+
 >[Python: OOP](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/07.OOP.ipynb)
 
