@@ -40,5 +40,17 @@ Today I Learned
 >[Python: OOP](https://github.com/YoohwaJin/python.exp/blob/master/.ipynb_checkpoints/07.OOP.ipynb)
 
 ### Day 8 (8.2)
-> [SWEA: 
+> [Algorithm: 1차원리스트, 그리디, 버블/카운터 정렬 등]
+> 파이썬 SW문제해결 기본 - LIST1
+
+
+### Day 9 (8.3)
+> [Algorithm: Array, 1차원 배열 등]
+> SW 문제해결 기본 - Array 1, 2
+
+
+### Day 10 (8.4)
+> [Algorithm: 2차원리스트, 부분집합, 비트연산, 회문 등]
+> 파이썬 SW문제해결 기본 - LIST2, String
+
 
